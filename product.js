@@ -1,2 +1,2 @@
 
-console.log(75*10*1)
+console.log(15*10*5)
